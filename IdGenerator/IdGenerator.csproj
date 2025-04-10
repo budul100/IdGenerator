@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net7.0;net6.0;netstandard2.1;netstandard2.0</TargetFrameworks>
+    <PackageId>budul.IdGenerator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>budul</Authors>
+    <Description>A flexible and thread-safe unique identifier generator for .NET applications.</Description>
+    <PackageTags>id;identifier;generator;unique;guid;alternative</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/budul100/IdGenerator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/budul100/IdGenerator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+</Project>
